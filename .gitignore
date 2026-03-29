@@ -27,3 +27,6 @@ npm-debug.log*
 
 # Vite
 .vite/
+
+# Testing tools (pueden contener credenciales)
+testsprite_tests/
